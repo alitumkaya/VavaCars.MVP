@@ -1,0 +1,7 @@
+﻿HANDBALL
+player 1;handball-nick1;4;Team A;G;0;20
+player 2;handball-nick2;8;Team A;F;15;20
+player 3;handball-nick3;15;Team A;F;10;20
+player 4;handball-nick4;16;Team B;G;1;25
+player 5;handball-nick5;23;Team B;F;12;25
+player 6;handball-nick6;42;Team B;F;8;25
